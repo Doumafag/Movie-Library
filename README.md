@@ -30,3 +30,10 @@ Python 3.7 или выше
 ```bash
 git clone https://github.com/ivanivanov/movie-library
 cd movie-library
+2.Убедитесь, что Python установлен:
+bash
+python --version
+Запустите приложение:
+3.
+bash
+python main.py
