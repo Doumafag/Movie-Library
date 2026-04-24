@@ -34,3 +34,7 @@
 - Операционная система: Windows / macOS / Linux
 
 ### Инструкция по установке
+1. **Скачайте или клонируйте репозиторий:**
+```bash
+git clone https://github.com/ivanivanov/movie-library
+cd movie-library
