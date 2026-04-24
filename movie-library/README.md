@@ -34,7 +34,3 @@
 - Операционная система: Windows / macOS / Linux
 
 ### Инструкция по установке
-
-1. **Скачайте или клонируйте репозиторий:**
-```bash
-https://github.com/Doumafag/Movie-Library
