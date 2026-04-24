@@ -38,4 +38,3 @@
 1. **Скачайте или клонируйте репозиторий:**
 ```bash
 https://github.com/Doumafag/Movie-Library
-cd movie-library
